@@ -14,4 +14,3 @@ desc 'prints out what\'s up into the terminal'
     puts "What's going on?"
   end
 end
-*
