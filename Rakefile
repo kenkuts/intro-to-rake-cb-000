@@ -4,7 +4,7 @@ namespace :greeting do
     puts "hello from Rake!"
   end
 
-  task :hola do 
+  task :hola do
     puts "hola from Rake!"
   end
 
