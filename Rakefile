@@ -9,8 +9,4 @@ namespace :greeting do
     puts "hola de Rake!"
   end
 
-  desc 'prints out what\'s up into the terminal'
-  task :waddup do
-    puts "What's going on?"
-  end
 end
