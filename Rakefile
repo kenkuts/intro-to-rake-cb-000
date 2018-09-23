@@ -19,8 +19,9 @@ namespace :db do
 
   desc 'seeds our database with data'
   task :seed do
-
+    
   end
+  
   task :environment do
     require_relative './config/environment'
   end
